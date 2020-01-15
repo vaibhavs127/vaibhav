@@ -1,0 +1,59 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background:url(https://careforu.000webhostapp.com/images/vaibhav/images.jpg);
+      background-attachment: fixed;
+      background-size: cover;
+      
+  }
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 100%;
+    height: 1700px;
+    border-left:3px solid black;
+    border-right:3px solid black;
+    border-bottom:3px solid black;
+  }
+h1
+{
+    border-top: 3px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    background-color:rosybrown;
+}
+h2{
+    border-bottom: 5px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    font-size: 18px;
+    background-color:rosybrown;
+}
+ul
+{
+    margin-left: 20px;
+}
+ol
+{
+    margin-left: -91px;
+}
+img
+{
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    margin-left: 20px;
+    
+}
+footer
+{
+    background-color:rosybrown;
+}
